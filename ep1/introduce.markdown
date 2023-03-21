@@ -404,5 +404,5 @@ def normalize(data):
     normalized_data = [(x-min_val)/(max_val-min_val) for x in data]
     return normalized_data
 ```
-
-仓库地址:[github]([cai-04/python-learning: python，数据仓库实验代码 (github.com)](https://github.com/cai-04/python-learning))
+# 仓库地址
+[cai-04/python-learning: python，数据仓库实验代码 (github.com)](https://github.com/cai-04/python-learning)
