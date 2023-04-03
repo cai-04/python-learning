@@ -87,11 +87,11 @@ def normalize(data):
     return normalized_data
 
 # 输入数据
-# data = [123,68,76,161,52,77,226,350,202,341,260,155,120,163,221,133,45,106,50,125,83,66,131,242,127]
+data = [123,68,76,161,52,77,226,350,202,341,260,155,120,163,221,133,45,106,50,125,83,66,131,242,127]
 # 读入数据
-file_name = '1.txt'
-data = np.loadtxt(file_name, dtype= 'int32', delimiter=',')
-print("原始数据：", data)
+# file_name = '1.txt'
+# data = np.loadtxt(file_name, dtype= 'int32', delimiter=',')
+# print("原始数据：", data)
 
 # 输入数据
 #input_data = input("请输入数据：")
